@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: vaibhavj206/journotrail-frontend-beta:v2.2
+          image: vaibhavj206/journotrail-frontend-beta:v2
           ports:
             - containerPort: 5173
 ---

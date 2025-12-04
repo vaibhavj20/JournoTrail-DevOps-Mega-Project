@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: vaibhavj206/journotrail-backend-beta:v2.1
+          image: vaibhavj206/journotrail-backend-beta:v2
           ports:
             - containerPort: 8080
 ---
